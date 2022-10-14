@@ -1,4 +1,4 @@
-### Developer Exosfeer/ZeroHackz 🧊 Stats 🧊
+### Developer ZeroHackz 🧊 Stats 🧊
 * * *
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zerohackz&column=8&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/zerohackz)
