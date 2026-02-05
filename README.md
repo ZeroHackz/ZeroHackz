@@ -13,7 +13,7 @@
  ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E+White+Hat+Hacker+%7C+.NET+Developer;%3E+Securing+the+Digital+Realm;%3E+Breaking+Code+to+Make+it+Stronger;%3E+root%40zerohackz%3A~%24+sudo+hack+--ethical)](https://github.com/ZeroHackz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E+Professional+.NET+Developer;%3E+Building+Scalable+Solutions;%3E+Clean+Code+Enthusiast;%3E+root%40zerohackz%3A~%24+dotnet+build)](https://github.com/ZeroHackz)
 
 </div>
 
@@ -25,19 +25,19 @@
 ┌──(zerohackz㉿kali)-[~]
 └─$ cat /etc/profile.d/zerohackz.sh
 
-ROLE="White Hat Hacker & .NET Developer"
-MISSION="Securing applications, one vulnerability at a time"
-STACK=("C#" ".NET" "ASP.NET Core" "Azure" "Security")
-STATUS="Building & Breaking (ethically)"
+ROLE="Professional .NET Developer"
+MISSION="Building robust enterprise solutions"
+STACK=("C#" ".NET" "ASP.NET Core" "Azure" "Cloud")
+STATUS="Shipping quality code daily"
 ```
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
 
-- Crafting secure enterprise solutions with **.NET**
-- Penetration testing & vulnerability assessment
-- Security-first development practices
-- Ethical hacking & red team operations
-- Building tools that protect, not destroy
+- Crafting enterprise solutions with **.NET**
+- Building scalable APIs & microservices
+- Cloud-native development with **Azure**
+- Clean architecture & best practices
+- Passionate about performance optimization
 
 ---
 
@@ -50,7 +50,7 @@ STATUS="Building & Breaking (ethically)"
 | **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 | **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) |
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **Security Tools** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) |
+| **Tools** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
 </div>
@@ -92,8 +92,8 @@ STATUS="Building & Breaking (ethically)"
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you are able to hear."        │
-│                                           - Kali Linux Motto     │
+│  "First, solve the problem. Then, write the code."               │
+│                                           - John Johnson         │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
