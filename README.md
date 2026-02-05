@@ -22,12 +22,12 @@
 └─$ cat /etc/profile.d/zerohackz.sh
 
 ROLE="Professional .NET Developer"
-MISSION="Building robust enterprise solutions"
-STACK=("C#" ".NET" "ASP.NET Core" "Azure" "Cloud")
-STATUS="Shipping quality code daily"
+MISSION="Contributing pillars to lasting open source software solutions"
+STACK=("C#" ".NET" "Python" "OpenSource" "LLMs")
+STATUS="Contributing quality code to OpenSource projects"
 ```
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/ZeroHackz/ZeroHackz/main/matrix.svg"/>
 
 - Crafting enterprise solutions with **.NET**
 - Building scalable APIs & microservices
