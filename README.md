@@ -22,7 +22,7 @@
 └─$ cat /etc/profile.d/zerohackz.sh
 
 ROLE="Professional .NET Developer"
-MISSION="Contributing pillars to lasting open source software solutions"
+MISSION="Creating pillars to ever-lasting OpenSource software"
 STACK=("C#" ".NET" "Python" "OpenSource" "LLMs")
 STATUS="Contributing quality code to OpenSource projects"
 ```
@@ -31,9 +31,9 @@ STATUS="Contributing quality code to OpenSource projects"
 
 - Crafting enterprise solutions with **.NET**
 - Building scalable APIs & microservices
-- Cloud-native development with **Azure**
+- Cloud-native development with **LLMs**
 - Clean architecture & best practices
-- Passionate about performance optimization
+- Passionate about front-edge technology
 
 ---
 
