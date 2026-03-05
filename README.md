@@ -22,9 +22,9 @@
 └─$ cat /etc/profile.d/zerohackz.sh
 
 ROLE="Professional .NET Developer"
-MISSION="Creating pillars to ever-lasting OpenSource software"
+MISSION="Creating pillars within ever-lasting Open-Source software"
 STACK=("C#" ".NET" "Python" "OpenSource" "LLMs")
-STATUS="Contributing quality code to OpenSource projects"
+STATUS="Contributing quality code to Open-Source projects"
 ```
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/ZeroHackz/ZeroHackz/main/matrix.svg"/>
