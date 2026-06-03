@@ -8,15 +8,10 @@
  ███████╗███████╗██║  ██║╚██████╔╝██║  ██║██║  ██║╚██████╗██║  ██╗███████╗
  ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝
 ```
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E+Professional+.NET+Developer;%3E+Building+Scalable+Solutions;%3E+Clean+Code+Enthusiast;%3E+root%40zerohackz%3A~%24+dotnet+build)](https://github.com/ZeroHackz)
-
 </div>
 
----
-
 ## `> whoami`
-
 ```bash
 ┌──(zerohackz㉿kali)-[~]
 └─$ cat /etc/profile.d/zerohackz.sh
@@ -26,27 +21,18 @@ MISSION="Creating pillars within ever-lasting Open-Source software"
 STACK=("C#" ".NET" "Python" "OpenSource" "LLMs")
 STATUS="Contributing quality code to Open-Source projects"
 ```
-
 <img align="right" width="300" src="https://raw.githubusercontent.com/ZeroHackz/ZeroHackz/main/matrix.svg"/>
 
 - Crafting enterprise solutions with **.NET**
 - Building scalable APIs & microservices
 - Cloud-native development with **LLMs**
-- Clean architecture & best practices
-- Passionate about front-edge technology
-
----
 
 ## `> ./stats.sh --display`
-
 <p align="center">
-    <img src="https://stable-github-profile-trophy.vercel.app/?username=zerohackz&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
+    <img src="https://stable-github-profile-trophy.vercel.app/?username=zerohackz&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=10" alt="Trophies"/>
 </p>
 
----
-
 ## `> cat /proc/skills`
-
 <div align="center">
 
 | Category | Technologies |
@@ -59,17 +45,12 @@ STATUS="Contributing quality code to Open-Source projects"
 
 </div>
 
----
-
 ## `> netstat -connections`
-
 <div align="center">
-
+  
 [![GitHub followers](https://img.shields.io/github/followers/zerohackz?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00ff41)](https://github.com/ZeroHackz)
 [![Profile Views](https://komarev.com/ghpvc/?username=zerohackz&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)](https://github.com/ZeroHackz)
-
 </div>
-
 <div align="center">
 
 ```
@@ -79,9 +60,7 @@ STATUS="Contributing quality code to Open-Source projects"
 │                                           - Philip Emeagwali     │
 └──────────────────────────────────────────────────────────────────┘
 ```
-
 </div>
-
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
 </p>
