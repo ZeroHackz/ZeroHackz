@@ -40,12 +40,6 @@ STATUS="Contributing quality code to Open-Source projects"
 ## `> ./stats.sh --display`
 
 <p align="center">
-    <img src="https://github-readme-stats-drab-phi-35.vercel.app/api?username=zerohackz&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&order=1" alt="GitHub Stats"/>
-</p>
-
----
-
-<p align="center">
     <img src="https://stable-github-profile-trophy.vercel.app/?username=zerohackz&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
 </p>
 
@@ -67,12 +61,6 @@ STATUS="Contributing quality code to Open-Source projects"
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats-drab-phi-35.vercel.app/api/top-langs/?username=zerohackz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
----
-
 ## `> netstat -connections`
 
 <div align="center">
@@ -82,14 +70,13 @@ STATUS="Contributing quality code to Open-Source projects"
 
 </div>
 
----
-
 <div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  "First, solve the problem. Then, write the code."               │
-│                                           - John Johnson         │
+│  "Technology is a tool and a means to the end.                   |
+|   Knowledge and information are the end."                        │
+│                                           - Philip Emeagwali     │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
