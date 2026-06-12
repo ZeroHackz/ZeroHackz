@@ -55,7 +55,7 @@ STATUS="Contributing quality code to Open-Source projects"
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  "Technology is a tool and a means to the end.                   |
+│  "Technology is a tool and a means to an end.                   |
 |   Knowledge and information are the end."                        │
 │                                           - Philip Emeagwali     │
 └──────────────────────────────────────────────────────────────────┘
